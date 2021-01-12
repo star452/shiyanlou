@@ -21,3 +21,6 @@ void main()
 	printf("  s(%d,%d)=%.8f\n", d, n, s);
 
 }
+
+
+//我来试试 啊呜啊呜 
